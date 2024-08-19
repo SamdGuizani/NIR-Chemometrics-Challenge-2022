@@ -1,1 +1,1 @@
-# Project: Evaluate transferrability of NIR chemometric model between 2 spectrometers
+# Project: Evaluate transferability of NIR chemometric model between 2 spectrometers
